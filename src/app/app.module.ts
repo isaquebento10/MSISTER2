@@ -2,10 +2,14 @@ import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
 
 import { AppComponent } from './app.component';
+import { HomeComponent } from './componentes/HOME/home/home.component';
+import { FotosComponent } from './componentes/FOTOS/fotos/fotos.component';
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    HomeComponent,
+    FotosComponent
   ],
   imports: [
     BrowserModule

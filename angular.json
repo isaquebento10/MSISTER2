@@ -99,6 +99,10 @@
     }
   },
   "cli": {
+<<<<<<< HEAD
     "analytics": false
+=======
+    "analytics": "164193ac-323b-4b79-a0df-4488800d1aab"
+>>>>>>> P-MS2-S-WEB-03-home
   }
 }
